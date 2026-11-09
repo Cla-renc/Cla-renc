@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="assets/profile.jpg" width="160" height="160" alt="Clarence's Profile Picture" />
+  <img src="assets/profile.jpeg" width="160" height="160" alt="Clarence's Profile Picture" />
 
   <h1>Hi, I'm Clarence 👋</h1>
 
