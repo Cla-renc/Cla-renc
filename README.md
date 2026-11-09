@@ -139,17 +139,11 @@ My public GitHub repositories are automatically displayed and refreshed through 
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Cla-renc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Cla-renc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cla-renc&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-
-  <br/><br/>
-
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cla-renc&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Cla-renc&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 </div>
-
----
 
 ## 🌱 Current Focus
 
